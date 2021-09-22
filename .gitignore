@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+*.lock
+*.txt
+experiment.py
+*.zip
+*.jsonl.gz
